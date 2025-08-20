@@ -1,6 +1,6 @@
 ---
-title: Metadata
-nav: Metadata
+title: Advanced
+nav: Advanced
 topics:
 ---
 

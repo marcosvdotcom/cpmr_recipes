@@ -1,6 +1,6 @@
 ---
 title: site pages and links
-nav: Agisoft
+nav: pages
 ---
 
 -----------
