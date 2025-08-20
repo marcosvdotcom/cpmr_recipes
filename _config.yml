@@ -10,7 +10,7 @@
 # SITE SETTINGS
 #
 # title appears in the header
-title: AWBLA Digitization Procedures
+title: CPMR Website Recipes
 # title-icon appears in the header to give some pizazz (leave blank for none)
 # choose from Font Awesome 5 free, https://fontawesome.com/icons?d=gallery&m=free
 # some options: fas fa-wrench; fas fa-cogs; fas fa-code; fas fa-chalkboard-teacher; fas fa-book-open
@@ -23,14 +23,14 @@ featured-image:
 search: true
 
 # author settings for cc-by, appears in the footer and credits
-author: AWBLA
+author: Marco S-V
 # your github username for link [optional]
-github_username: awbla
+github_username: marcosvdotcom
 # year or date published
-pub_year: 2021
-update_year: 2021
+pub_year: 2025
+update_year: 2025
 # location of code, the full url to your github repository
-source-code: https://github.com/evanwill/workshop-template-b
+source-code: https://github.com/marcosvdotcom/cpmr_recipes
 
 ##########
 # URL VARIABLES [optional!]
